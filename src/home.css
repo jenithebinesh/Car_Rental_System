@@ -1,0 +1,30 @@
+.App-logo{
+
+    height:720px ;
+    width:1525px;
+    margin: 0 0 -20px;
+    pointer-events: none;
+
+    text-decoration: none;
+}
+.login-design{
+    width:15%;
+    height:100%;
+    border: 2px solid #fe1d1d;
+    text-align: center;
+    margin-top:-150px;
+    cursor: pointer ;
+    background-color: #ffffff;
+    color: black;
+    text-decoration:none;
+    place-items: center;
+    border-radius: 15px;
+    padding:0.5rem 0.5rem;
+}
+
+
+
+#lgn{
+    text-decoration: none;
+    color: #fe1d1d;
+}

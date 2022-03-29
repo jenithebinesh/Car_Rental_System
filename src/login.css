@@ -1,0 +1,110 @@
+
+
+.login-page{
+
+    height: 85vh;
+    width:30%;
+    overflow-x: hidden;
+    box-shadow: 0.5rem 0.5rem 6rem rgb(190, 155, 155);
+    border-radius: 1rem;
+    margin: 2rem auto;
+    background-color: #e1e1e1;
+
+
+}
+.Lg {
+    margin: 3rem 3rem;
+    display: flex;
+}
+
+input {
+    display: block;
+    border: none;
+    height: 2rem;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 1.5rem;
+    padding: 0.2rem 1rem;
+}
+input:focus{
+    outline: none;
+    border: none;
+}
+input:hover{
+    box-shadow: 1px 1px 6px -1px red;
+    transform:translateY(-2px);
+}
+
+label{
+    display:block;
+    text-align: left;
+    margin:auto;
+    width: 80%;
+    float:left;
+    font-size: small;
+    margin-bottom: 0.5rem;
+    color: black;
+
+}
+#sbtbtn{
+
+
+    width:60%;
+    background: red;
+    color: white;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    border:none;
+    cursor: pointer;
+    padding:0.5rem 0.5rem;
+    transition: all 0.10s ease;
+    border-radius: 5px;
+
+
+}
+#sbtbtn:hover{
+    box-shadow: 1px 1px 6px -1px black;
+    transform:translateY(-2px);
+}
+
+
+#usrnme{
+    margin-left: -1rem;
+    font-size: medium;
+
+}
+#pswd{
+    margin-left: -1rem;
+    font-size: medium;
+
+}
+#usrplc{
+    width:150%;
+    margin-left: -1rem;
+    border-radius: 5px;
+}
+#pwdplc{
+    width:170%;
+    margin-left: -1rem;
+    border-radius: 5px;
+}
+h2{
+    margin-left: 3rem;
+    font-size: xx-large;
+}
+.Adj{
+    margin-right: 7rem;
+    margin-top: 5rem;
+
+}
+.Adj2{
+    margin-left: 2rem;
+}
+
+
+.Dha{
+
+    text-align: center;
+}
+
+
